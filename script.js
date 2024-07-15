@@ -12,4 +12,6 @@ function ToggleMode() {
     img.setAttribute("src", "./assets/20.png")
     img.setAttribute("alt", "Gojo")
   }
+  // a
+
 }
